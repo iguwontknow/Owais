@@ -2,7 +2,7 @@
 "update_url": "https://clients2.google.com/service/update2/crx",
 
   "manifest_version": 2,
-  "name": "Western Union",
+  "name": "Smart Calculator",
   "version": "1.2",
   "author": "Iguwontknow  <blackpearlclothing30@gmail.com>",
 
