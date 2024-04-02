@@ -1,2 +1,2 @@
-# Western Union Browser
+# Smart Calcultor
 Property of Iguwontknow.
