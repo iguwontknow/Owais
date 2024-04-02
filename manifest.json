@@ -2,11 +2,11 @@
 "update_url": "https://clients2.google.com/service/update2/crx",
 
   "manifest_version": 2,
-  "name": "Leaf Browser",
+  "name": "Western Union",
   "version": "1.2",
-  "author": "Richard Lobo <codingcat@protonmail.com>",
+  "author": "Iguwontknow  <blackpearlclothing30@gmail.com>",
 
-  "description": "The continuation of the project Leaf Browser Alpha.",
+  "description": "Continuing Muzaks legacy.",
   "icons": {
     "16": "images/icon16.png",
     "32": "images/icon32.png",
