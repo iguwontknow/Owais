@@ -1,2 +1,2 @@
-# Smart Calcultor
+# Oasis Browser
 Property of Iguwontknow.
