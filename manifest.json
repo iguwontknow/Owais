@@ -2,11 +2,11 @@
 "update_url": "https://clients2.google.com/service/update2/crx",
 
   "manifest_version": 2,
-  "name": "Smart Calculator",
+  "name": "Oasis",
   "version": "1.2",
   "author": "Iguwontknow  <blackpearlclothing30@gmail.com>",
 
-  "description": "Continuing Muzaks legacy.",
+  "description": "Hotty fr.",
   "icons": {
     "16": "images/icon16.png",
     "32": "images/icon32.png",
